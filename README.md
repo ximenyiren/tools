@@ -1,6 +1,6 @@
 # 在vultr上面搭建ssr
 # 选择vps类型
-1,目前vultr上面的产品大部分都已经是5$/m,只有少数几个地区有2.5$/m,但是尽量不要选，因为只支持ipv6,不支持ipv4;而剩下的3.5$/m的只有美国的New Jersey地区有，RAM:512M,Storage:10G,我只是用来搭建ssr，所以足够了。<br>
+1,目前vultr上面的产品大部分都已经是5$/m,只有少数几个地区有2.5$/m,但是尽量不要选，因为只支持ipv6,不支持ipv4;而剩下的3.5$/m的只有美国的New Jersey地区有，RAM:512M,Storage:10G,我只是用来搭建ssr，所以足够了。vultr现在对于新用户很友好，赠送100$可以说是很实惠了<br>
 <a href="https://www.vultr.com/?ref=8541841"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a><br>
 2,操作系统选择centos7,不要选择centos8，不支持的，而且默认也没装python <br>
 3,如果不想使用密码登录，这个时候就要选择ssh key，其他都默认就可以
